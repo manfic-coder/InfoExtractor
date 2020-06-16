@@ -1,4 +1,4 @@
-# Find phone number and email address from a text file
+# import modules
 import re
 import os
 
